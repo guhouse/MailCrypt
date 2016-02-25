@@ -1,0 +1,11 @@
+C:\Users\Amala\Documents\Visual Studio 2013\Projects\MailCrypt\MailCrypt\bin\Debug\MailCrypt.exe.config
+C:\Users\Amala\Documents\Visual Studio 2013\Projects\MailCrypt\MailCrypt\bin\Debug\MailCrypt.exe
+C:\Users\Amala\Documents\Visual Studio 2013\Projects\MailCrypt\MailCrypt\bin\Debug\MailCrypt.pdb
+C:\Users\Amala\Documents\Visual Studio 2013\Projects\MailCrypt\MailCrypt\obj\Debug\MailCrypt.SetPasswordForm.resources
+C:\Users\Amala\Documents\Visual Studio 2013\Projects\MailCrypt\MailCrypt\obj\Debug\MailCrypt.MainForm.resources
+C:\Users\Amala\Documents\Visual Studio 2013\Projects\MailCrypt\MailCrypt\obj\Debug\MailCrypt.PatternForm.resources
+C:\Users\Amala\Documents\Visual Studio 2013\Projects\MailCrypt\MailCrypt\obj\Debug\MailCrypt.Properties.Resources.resources
+C:\Users\Amala\Documents\Visual Studio 2013\Projects\MailCrypt\MailCrypt\obj\Debug\MailCrypt.csproj.GenerateResource.Cache
+C:\Users\Amala\Documents\Visual Studio 2013\Projects\MailCrypt\MailCrypt\obj\Debug\MailCrypt.exe
+C:\Users\Amala\Documents\Visual Studio 2013\Projects\MailCrypt\MailCrypt\obj\Debug\MailCrypt.pdb
+C:\Users\Amala\Documents\Visual Studio 2013\Projects\MailCrypt\MailCrypt\obj\Debug\MailCrypt.csprojResolveAssemblyReference.cache
